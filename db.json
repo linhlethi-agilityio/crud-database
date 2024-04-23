@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "BenjoA2345",
+      "createdAt": 1709407999762,
+      "updatedAt": 1709407999762,
+      "name": "Jons Jam",
+      "rule": "admin",
+      "id": "e72d"
+    }
+  ],
+  "payments": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "paymentSchedule": "Monthly",
+      "billNumber": 12345,
+      "amountPaid": 124545223,
+      "balanceAmount": 1500,
+      "date": 1676134800000
+    },
+    {
+      "id": "2",
+      "name": "Alice Smith",
+      "paymentSchedule": "Bi-Monthly",
+      "billNumber": 54321,
+      "amountPaid": 122343423,
+      "balanceAmount": 1200435,
+      "date": 1709407999762
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "paymentSchedule": "Weekly",
+      "billNumber": 98765,
+      "amountPaid": 54354300,
+      "balanceAmount": 1804540,
+      "date": 1709407999762
+    },
+    {
+      "id": "4",
+      "name": "Eva Williams",
+      "paymentSchedule": "Monthly",
+      "billNumber": 1354579,
+      "amountPaid": 34543900,
+      "balanceAmount": 9004354,
+      "date": 1709407999762
+    },
+    {
+      "id": "5",
+      "name": "Michael Brown",
+      "paymentSchedule": "Bi-Weekly",
+      "billNumber": 2465480,
+      "amountPaid": 40543540,
+      "balanceAmount": 1600454,
+      "date": 1676134800000
+    },
+    {
+      "id": "6",
+      "name": "Sophia Davis",
+      "paymentSchedule": "Monthly",
+      "billNumber": 11223454,
+      "amountPaid": 6543500,
+      "balanceAmount": 140043543,
+      "date": 1676134800000
+    },
+    {
+      "id": "7",
+      "name": "Liam Wilson",
+      "paymentSchedule": "Weekly",
+      "billNumber": 334455435,
+      "amountPaid": 80053454,
+      "balanceAmount": 12045450,
+      "date": 1676134800000
+    },
+    {
+      "id": "8",
+      "name": "Olivia Miller",
+      "paymentSchedule": "Bi-Weekly",
+      "billNumber": 55645467,
+      "amountPaid": 1005450,
+      "balanceAmount": 10054540,
+      "date": 1676134800000
+    },
+    {
+      "id": "9",
+      "name": "Lucas Moore",
+      "paymentSchedule": "Monthly",
+      "billNumber": 77854589,
+      "amountPaid": 2054540,
+      "balanceAmount": 180454540,
+      "date": 981824400000
+    },
+    {
+      "id": "10",
+      "name": "Emma Taylor",
+      "paymentSchedule": "Bi-Monthly",
+      "billNumber": 99454000,
+      "amountPaid": 12045450,
+      "balanceAmount": 8045450,
+      "date": 981824400000
+    }
+  ],
+  "students": [
+    {
+      "name": "Lin",
+      "email": "lin@gmail.com",
+      "phone": "424-234-3243",
+      "enrollNumber": "5354571008",
+      "dateOfAdmission": 1714496400000,
+      "id": "103b"
+    },
+    {
+      "name": "Join",
+      "email": "join@gmail.com",
+      "phone": "465-546-5465",
+      "enrollNumber": "1043971876",
+      "dateOfAdmission": 1711990800000,
+      "id": "dfbdsdd"
+    },
+    {
+      "name": "Lin Le",
+      "email": "linle@gmail.com",
+      "phone": "424-234-3243",
+      "enrollNumber": "5354571008",
+      "dateOfAdmission": 1714496400000,
+      "id": "103bwew"
+    },
+    {
+      "name": "Jam Jam",
+      "email": "jam@gmail.com",
+      "phone": "465-545-5465",
+      "enrollNumber": "1043971876",
+      "dateOfAdmission": 1711990800000,
+      "id": "dfb8776d"
+    },
+    {
+      "name": "Mateo",
+      "email": "mateo@gmail.com",
+      "phone": "424-234-3243",
+      "enrollNumber": "5354571008",
+      "dateOfAdmission": 1714496400000,
+      "id": "103btrtr"
+    },
+    {
+      "name": "Jinane",
+      "email": "Jinane@gmail.com",
+      "phone": "465-546-5465",
+      "enrollNumber": "1043971876",
+      "dateOfAdmission": 1711990800000,
+      "id": "dfbwe3d"
+    }
+  ]
+}
